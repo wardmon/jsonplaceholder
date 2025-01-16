@@ -63,7 +63,22 @@
       "thumbnailUrl": "https://via.placeholder.com/150/771796"
     }
 	],
- 
+"users": [
+    {
+      "id": 1,
+      "username": "Antonette",
+      "email": "Shanna@melissa.tv",
+      "phone": "010-692-6593 x09125",
+      "address": "anastasia.net"
+      },
+    {
+      "id": 3,
+      "username": "Samantha",
+      "email": "Nathan@yesenia.net",
+      "phone": "1-463-123-4447",
+      "address": "ramiro.info"
+    }
+	], 
 "todos": [
     {
       "userId": 1,
