@@ -35,18 +35,7 @@
       "body": "est natus enim nihil est dolore omnis voluptatem numquam\net omnis occaecati quod ullam at\nvoluptatem error expedita pariatur\nnihil sint nostrum voluptatem reiciendis et"
     }
 	],
-  "albums": [
-    {
-      "userId": 1,
-      "id": 1,
-      "title": "quidem molestiae enim"
-    },
-    {
-      "userId": 1,
-      "id": 2,
-      "title": "sunt qui excepturi placeat culpa"
-    }
-	],
+
    "photos": [
     {
       "albumId": 1,
